@@ -1,0 +1,27 @@
+.container-input{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 2%;
+
+}
+.container-input input{
+    width: 70%;
+    margin-top: 2.5%;
+}
+
+p{
+    margin-top: 2%;
+}
+h1{
+    color: #FFC090;
+    
+}
+h3{
+    color: #f7ae76;
+}
+
+.container-input label{
+    color: #FFC090;
+    width: auto;
+}
